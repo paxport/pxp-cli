@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pxp": "./pxp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "~0.8.3",
+    "commander": "~2.8.1",
+    "colors": "~1.1.0",
+    "nconf": "~0.7.1"
+  },
+  "scripts": {
+    "install": "./scripts/install.js"
+  }
+}

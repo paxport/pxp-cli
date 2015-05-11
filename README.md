@@ -1,1 +1,3 @@
-# pxp-cli
+$ sudo npm install -g
+
+$ pxp
